@@ -1,5 +1,7 @@
 ### Hi, I'm Jasmine! 👋
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdarechan%2Fdarechan&psig=AOvVaw3keSrEhozQR2Mn2I0skk2u&ust=1733604531709000&source=images&opi=89978449" alt="Jasmine"/>
+
 # 💫 About Me:
 👩‍💻 Programmer <br/>
 <br>🌎 Timisoara, Romania <br/>

@@ -17,7 +17,6 @@ Credits for the gif: https://github.com/nzitta/nzitta
 # 📊 GitHub Stats:
 ![](https://github-contributor-stats.vercel.app/api?username=Jasmine-Afrem&limit=5&theme=jolly&combine_all_yearly_contributions=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jasmine-Afrem&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Jasmine-Afrem&theme=jolly&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmine-Afrem&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---

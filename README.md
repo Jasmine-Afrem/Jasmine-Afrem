@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jasmine!</h1>
 
-<img src="https://camo.githubusercontent.com/32513d20e5de414c6cea5be17236ec60852df5219420cedebada8c556e801e73/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3135393964373130373031393732352e356639643363376261653633362e676966" alt="Jasmine"/>
-Credits for the gif: https://github.com/nzitta/nzitta
+<img src="https://64.media.tumblr.com/23ab6ab83aa8b30dd0c5614973f75816/4436965a9c018cab-f7/s1280x1920/e5c661fdc5e9a212b20037e072f8a05d2d06df16.gifv" alt="GIF" width="1000"/>
+
+Credits for the gif:[ https://github.com/nzitta/nzitta](https://ilta222.tumblr.com)
 
 # 💫 About Me:
 👩‍💻 Programmer <br/>

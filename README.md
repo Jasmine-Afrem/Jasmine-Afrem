@@ -2,7 +2,7 @@
 
 <img src="https://64.media.tumblr.com/23ab6ab83aa8b30dd0c5614973f75816/4436965a9c018cab-f7/s1280x1920/e5c661fdc5e9a212b20037e072f8a05d2d06df16.gifv" alt="GIF" width="1000"/>
 
-Credits for the gif:[ https://github.com/nzitta/nzitta](https://ilta222.tumblr.com)
+Credits for the gif: [https://ilta222.tumblr.com](https://ilta222.tumblr.com)
 
 # 💫 About Me:
 👩‍💻 Programmer <br/>
